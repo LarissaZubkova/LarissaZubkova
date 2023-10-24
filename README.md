@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larissazubkova@gmail.com)
  
 
-<img width="55%" align="right" alt="Github" src="svg/83i9m0.gif" />
+<img width="55%" align="right" alt="Github" src="svg/83malq.gif" />
 
--  Я учусь [HTML Academy](https://htmlacademy.ru/profile/id2041971) на профессии "Реакт разработчик"  
+-  Я учусь в [HTML Academy](https://htmlacademy.ru/profile/id2041971) на профессии "Реакт разработчик"  
   
 
 - 🌍 Местоположение: г.Москва
