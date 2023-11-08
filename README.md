@@ -51,4 +51,5 @@
 <p>
 <img width="175" alt="Certificate1" src="svg/2041971.svg" />
 <img width="175" alt="Certificate1" src="svg/2041971-_1_.svg" />
+<img width="175" alt="Certificate1" src="svg/2041971-2.svg" />
 </p>
