@@ -6,9 +6,14 @@
 
 <img width="55%" align="right" alt="Github" src="svg/83malq.gif" />
 
+
+
+
 - 🌍 Местоположение: г.Москва
   
 <br/>  
+
+
 
 
 ## My Skill Set  
