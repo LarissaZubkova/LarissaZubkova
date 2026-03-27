@@ -1,4 +1,4 @@
-## <div align="center">Привет, я Лариса. React разработчик 🏃‍♀️</div>  
+## <div align="center">Frontend Developer</div>  
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LarissaZubkova)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larisa-zubkova-403427269)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larissazubkova@gmail.com)
